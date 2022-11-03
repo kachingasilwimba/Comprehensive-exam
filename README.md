@@ -16,11 +16,12 @@
  
  Data Processing Files
  ----------------------
- The `EOFsfunction.py` computes the empirical orthogal functions analysis and recostructs the dataset.
+ The `EOFsfunction.py` calculates the empirical orthogal functions analysis and recostructs the dataset.
  
- The `Soil_moisture_weights.py` computes the weighted average of soil moisture.
+ The `Soil_moisture_weights.py` calculates the weighted average of soil moisture.
  
  The `packages.py`loads the modules needed for the data analysis.
  
  The `data_spliting.py` splits the data into train and test.
+ 
 
