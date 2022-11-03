@@ -24,4 +24,6 @@
  
  The `data_spliting.py` splits the data into train and test.
  
-
+EOFs Analysis
+--------------
+The `Empirical_orthogal_function_analysis.ipynb` calculates the EOFs and visualize.
