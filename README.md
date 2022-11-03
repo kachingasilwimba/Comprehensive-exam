@@ -1,6 +1,7 @@
  Integrating EOFs into Machine Learning Algorithms to Emulate Climate Land Model
  --------------------------
- This respository provides the code for the comprehensive exam computing artifact in Computing Ph.D. (data science) at Boise State University. The code emulates and analyze Climate Land Model version 5 (CLM5) output using machine learaning, neural networks and empirical orthogal fucntional analysis.
+ This respository provides the code for the comprehensive exam computing artifact in Computing Ph.D. (data science) at Boise State University. The code emulates and analyze Climate Land Model version 5 (CLM5) output using machine learaning, neural networks and empirical orthogal fucntional analysis (Soil Moisture)
+.
  
 
  Requirements
