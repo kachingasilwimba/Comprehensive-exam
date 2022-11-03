@@ -28,7 +28,7 @@
  
 EOFs Analysis
 --------------
-The `Empirical_orthogal_function_analysis.ipynb` calculates the EOFs and visualize.\
+The `Empirical_orthogal_function_analysis.ipynb` calculates the EOFs and visualize.
 
 Machine Learning File
 ---------------------
