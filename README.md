@@ -34,6 +34,13 @@ Machine Learning File
 ---------------------
 The `Machine_learning_models.ipynb` emulates the CLM5 output (soil moisture) and integrates the EOFs into machine learning.
 
+Seed Papers
+------------
+1. Dagon, K., B. M. Sanderson, R. A. Fisher, and D. M. Lawrence (2020). A machine learning
+approach to emulation and biophysical parameter estimation with the community land model,
+version 5. Advances in Statistical Climatology, Meteorology and Oceanography 6 (2), 223–244.
+
+
 Citation
 ---------
 - [eofs reseach paper](http://doi.org/10.5334/jors.122)
