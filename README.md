@@ -32,7 +32,7 @@ The `Empirical_orthogal_function_analysis.ipynb` calculates the EOFs and visuali
 
 Machine Learning File
 ---------------------
-The `Machine_learning_models.ipynb` emulates the CLM5 output and integrates the EOFs into machine learning.
+The `Machine_learning_models.ipynb` emulates the CLM5 output (soil moisture) and integrates the EOFs into machine learning.
 
 Citation
 ---------
