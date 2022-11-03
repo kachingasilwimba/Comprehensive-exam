@@ -26,4 +26,8 @@
  
 EOFs Analysis
 --------------
-The `Empirical_orthogal_function_analysis.ipynb` calculates the EOFs and visualize.
+The `Empirical_orthogal_function_analysis.ipynb` calculates the EOFs and visualize.\
+
+Machine Learning File
+---------------------
+The `Machine_learning_models.ipynb` emulates the CLM5 output and integrates the EOFs into machine learning.
