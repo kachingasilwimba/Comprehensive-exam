@@ -21,4 +21,6 @@
  The `Soil_moisture_weights.py` computes the weighted average of soil moisture.
  
  The `packages.py`loads the modules needed for the data analysis.
+ 
+ The `data_spliting.py` splits the data into train and test.
 
