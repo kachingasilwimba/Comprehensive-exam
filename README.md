@@ -60,4 +60,4 @@ Citation
 - [eofs reseach paper](http://doi.org/10.5334/jors.122)
 
 - [eofs libraly](http://dx.doi.org/10.5281/zenodo.46871)
-
+- [eofs documentation](http://ajdawson.github.io/eof2/eofs.html)
