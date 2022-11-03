@@ -6,6 +6,7 @@
  Requirements
  -------------
  Install [EOF package](https://github.com/ajdawson/eofs) for the empirical orthogonal finctional analysis.
+ 
  install [tensorflow](https://www.tensorflow.org/) and [keras](https://keras.io/) packages for neural networks and machine learning.
  
  Dataset
