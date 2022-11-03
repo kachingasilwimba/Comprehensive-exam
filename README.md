@@ -40,6 +40,20 @@ Seed Papers
 approach to emulation and biophysical parameter estimation with the community land model,
 version 5. Advances in Statistical Climatology, Meteorology and Oceanography 6 (2), 223–244.
 
+2. Wu, Y., Y. Chen, and Y. Tian (2022). Incorporating empirical orthogonal function analysis into
+machine learning models for streamflow prediction. Sustainability 14 (11), 6612.
+
+3. Watson-Parris, D., A. Williams, L. Deaconu, and P. Stier (2021). Model calibration using esem
+v1. 1.0–an open, scalable earth system emulator. Geoscientific Model Development 14 (12),
+7659–7672.
+
+4. Hannachi, A., I. T. Jolliffe, and D. B. Stephenson (2007). Empirical orthogonal functions and
+related techniques in atmospheric science: A review. International Journal of Climatology: A
+Journal of the Royal Meteorological Society 27 (9), 1119–1152.
+
+5. Wang, T., T. E. Franz, R. Li, J. You, M. D. Shulski, and C. Ray (2017). Evaluating climate and soil
+effects on regional soil moisture spatial variability using eof s. Water Resources Research 53 (5),
+4022–4035.
 
 Citation
 ---------
