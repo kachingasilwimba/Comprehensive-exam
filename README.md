@@ -1,4 +1,4 @@
- Integrating EOFs into Machine Learning Algorithms to Emulate Climate Land Model
+ Integrating EOFs into Machine Learning Algorithms to Emulate Community Land Model Version 5
  --------------------------
  This repository provides the code and Synthenthis paper (`Comprehensive_Synthesis_Paper.pdf`) for the comprehensive exam computing artifact in Computing Ph.D. (data science) at Boise State University. The code emulates and analyzes Climate Land Model version 5 (CLM5) simulations (`soil moisture`) using machine learning, neural networks, and empirical orthogonal functional analysis (EOFs). 
 
@@ -6,7 +6,7 @@
 
  Requirements
  -------------
- Install [EOFs package](https://github.com/ajdawson/eofs) for the empirical orthogonal finctional analysis.
+ Install [EOFs package](https://github.com/ajdawson/eofs) for the empirical orthogonal functional analysis.
  
  Install [tensorflow](https://www.tensorflow.org/) and [keras](https://keras.io/) packages for neural networks and machine learning.
  
@@ -18,7 +18,7 @@
  
  Data Processing Files
  ----------------------
- The `EOFsfunction.py` calculates the empirical orthogal functions analysis and recostructs the dataset.
+ The `EOFsfunction.py` calculates the empirical orthogonal functions analysis and reconstructs the dataset.
  
  The `Soil_moisture_weights.py` calculates the weighted average of soil moisture.
  
